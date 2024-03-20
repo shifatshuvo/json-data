@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Galaxy Watch 3", "price": "$391" },
+  { "id": 2, "name": "Galaxy Watch Active 2", "price": "$244" },
+  { "id": 3, "name": "Galaxy Watch", "price": "$279" },
+  { "id": 4, "name": "Galaxy Watch Active", "price": "$195" },
+  { "id": 5, "name": "Gear S3 Frontier", "price": "$298" }
+]
